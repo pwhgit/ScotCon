@@ -1,5 +1,5 @@
 # Delivering Intelligent Web Apps using ArcGIS
-Source code from this presentation at the Scottish Conference
+Source code from this presentation at the Scottish Conference on the 8th October 2019 in Perth.
 
 <h1>Demo0.html</h1>
 This file provides a simple mock up of a HMO licencing application built using bootstrap. 
