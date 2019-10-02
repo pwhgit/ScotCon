@@ -9,7 +9,7 @@ require([
     "esri/tasks/Locator",
     "esri/layers/FeatureLayer",
     "esri/tasks/support/Query", 
-    "esri/ WebMap", //NEW - module used to load a map from portal \ ArcGIS Online
+    "esri/WebMap", //NEW - module used to load a map from portal \ ArcGIS Online
     "esri/views/MapView",// NEW - module to display map in page
     "esri/geometry/geometryEngine" // module to manimulate geometries on client (i.e. create a bufffer)
 ], function (
