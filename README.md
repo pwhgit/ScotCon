@@ -3,7 +3,7 @@ Source code from this presentation at the Scottish Conference on the 8th October
 
 <h1>Demo0.html</h1>
 This file provides a simple mock up of a HMO licencing application built using bootstrap. 
-This application is just provided as a bas umpon which I can illustrate the addition Spatial Inteligence to an existing application. This could equqlly be any package (i.e. sharepoint, dynamics, salesforce, etc) that allows custom code snippets, or any custom web application.
+This application is just provided as a base upon which I can illustrate the addition Spatial Inteligence to an existing application. This could equqlly be any package (i.e. sharepoint, dynamics, salesforce, etc) that allows custom code snippets, or any custom web application.
 
 <h1>Demo1.html</h1>
 Provides an example of adding a spatial (point in polygon) search fired by an event. In this case it will check if the address selected in the address search is within the sunnyshire boundary.
